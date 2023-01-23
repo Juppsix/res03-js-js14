@@ -9,7 +9,7 @@ class Book {
     
      constructor(id,title,author,publicationDate,totalPages,excerpt,coverImage) {
          
-       this.#id = id;
+        this.#id = id;
         this.#title = title;
         this.#author = author;
         this.#publicationDate = publicationDate;

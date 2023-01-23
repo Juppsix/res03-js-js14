@@ -60,3 +60,4 @@ class User {
         this.#profileImage = profileImage;
     }
 }
+export { User };
